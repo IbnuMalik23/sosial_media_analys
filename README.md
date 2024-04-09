@@ -1,2 +1,2 @@
 # sosial_media_analys
-Analys_sosial_media
+menganalisa tren sosmed di tiap platform berdaskan jam post, berupa jumlah like, share dan comment
